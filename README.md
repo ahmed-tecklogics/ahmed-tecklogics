@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmed-tecklogics
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Angular, MongoDB.
 - 💞️ I’m looking to collaborate on js echosystem
 - 📫 How to reach me, contact on my website
